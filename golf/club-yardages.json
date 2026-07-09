@@ -5,147 +5,168 @@
       "average": 260,
       "shots": [
         260
-      ]
+      ],
+      "baseline": 260
     },
     {
       "name": "Mini Driver",
       "average": 245,
       "shots": [
         245
-      ]
+      ],
+      "baseline": 245
     },
     {
       "name": "3 Wood",
       "average": 230,
       "shots": [
         230
-      ]
+      ],
+      "baseline": 230
     },
     {
       "name": "Utility Wood",
       "average": 220,
       "shots": [
         220
-      ]
+      ],
+      "baseline": 220
     },
     {
       "name": "Utility Wood (Choke)",
       "average": 210,
       "shots": [
         210
-      ]
+      ],
+      "baseline": 210
     },
     {
       "name": "5 Iron",
       "average": 190,
       "shots": [
         190
-      ]
+      ],
+      "baseline": 190
     },
     {
       "name": "6 Iron",
       "average": 175,
       "shots": [
         175
-      ]
+      ],
+      "baseline": 175
     },
     {
       "name": "7 Iron",
       "average": 165,
       "shots": [
         165
-      ]
+      ],
+      "baseline": 165
     },
     {
       "name": "8 Iron",
       "average": 155,
       "shots": [
         155
-      ]
+      ],
+      "baseline": 155
     },
     {
       "name": "9 Iron",
       "average": 145,
       "shots": [
         145
-      ]
+      ],
+      "baseline": 145
     },
     {
       "name": "PW",
       "average": 135,
       "shots": [
         135
-      ]
+      ],
+      "baseline": 135
     },
     {
       "name": "PW (Choke)",
       "average": 125,
       "shots": [
         125
-      ]
+      ],
+      "baseline": 125
     },
     {
       "name": "AW",
       "average": 115,
       "shots": [
         115
-      ]
+      ],
+      "baseline": 115
     },
     {
       "name": "AW (Choke)",
       "average": 105,
       "shots": [
         105
-      ]
+      ],
+      "baseline": 105
     },
     {
       "name": "54 Full",
       "average": 95,
       "shots": [
         95
-      ]
+      ],
+      "baseline": 95
     },
     {
       "name": "54 Choke",
       "average": 85,
       "shots": [
         85
-      ]
+      ],
+      "baseline": 85
     },
     {
       "name": "58 Full",
       "average": 75,
       "shots": [
         75
-      ]
+      ],
+      "baseline": 75
     },
     {
       "name": "58 Choke",
       "average": 65,
       "shots": [
         65
-      ]
+      ],
+      "baseline": 65
     },
     {
       "name": "58 Choke 75/75",
       "average": 50,
       "shots": [
         50
-      ]
+      ],
+      "baseline": 50
     },
     {
       "name": "58 Choke 50/50",
       "average": 40,
       "shots": [
         40
-      ]
+      ],
+      "baseline": 40
     },
     {
       "name": "58 50/50 No Choke Open Lob",
       "average": 20,
       "shots": [
         20
-      ]
+      ],
+      "baseline": 20
     }
   ],
   "last_updated": "2026-07-09"
