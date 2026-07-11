@@ -167,7 +167,16 @@
         20
       ],
       "baseline": 20
+    },
+    {
+      "name": "58 3/4 Back Stance",
+      "average": 65,
+      "shots": [
+        65
+      ],
+      "baseline": 65,
+      "notes": "No choke, ball back in stance, regular grip, 3/4 backswing, full follow-through, good rhythm"
     }
   ],
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-07-11"
 }
