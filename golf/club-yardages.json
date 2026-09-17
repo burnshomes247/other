@@ -137,6 +137,14 @@
       "baseline": 75
     },
     {
+      "name": "58 90/90",
+      "average": 65,
+      "shots": [
+        65
+      ],
+      "baseline": 65
+    },
+    {
       "name": "58 Choke 75/75",
       "average": 50,
       "shots": [
