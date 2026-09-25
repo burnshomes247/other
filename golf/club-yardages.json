@@ -137,7 +137,7 @@
       "baseline": 75
     },
     {
-      "name": "58 Choke 75/75",
+      "name": "58 Choke (75)",
       "average": 50,
       "shots": [
         50
@@ -145,7 +145,7 @@
       "baseline": 50
     },
     {
-      "name": "58 Slight Open Soft 75/75",
+      "name": "58 Slight Open Soft (75)",
       "average": 35,
       "shots": [
         35
@@ -161,7 +161,7 @@
       "baseline": 25
     },
     {
-      "name": "58 75/75 No Choke",
+      "name": "58 No Choke (75)",
       "average": 65,
       "shots": [
         65
